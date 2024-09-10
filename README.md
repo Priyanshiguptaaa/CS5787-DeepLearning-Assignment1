@@ -24,5 +24,12 @@ Ensure you have the following software installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/
-cd 
+git clone https://github.com/Priyanshiguptaaa/CS5787-DeepLearning-Assignment1.git
+cd CS5787-DeepLearning-Assignment1
+```
+
+### Install Dependencies
+
+```bash
+pip install torch torchvision matplotlib pandas
+```
